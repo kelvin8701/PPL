@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/toraaxlv/Documents/GitHub/PPL",
+      "program": "/Users/toraaxlv/Documents/GitHub/PPL/build/Debug/outDebug"
+    }
+  ]
+}
