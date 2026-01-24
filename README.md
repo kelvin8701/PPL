@@ -7,7 +7,7 @@ Naresh Kiefer
 Daniel Julio
 
 ## List Kelompok Angaktan 2024:
-- Kelompok 1 ([Github Repository]((https://github.com/GianJeconiah/ProjectPPL)))
+- ((https://github.com/GianJeconiah/ProjectPPL)))
 - Kelompok ...
 - ...
 
