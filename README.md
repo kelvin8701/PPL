@@ -7,6 +7,6 @@ Naresh Kiefer
 Daniel Julio
 
 ## List Kelompok Angkatan 2024:
-- Kelompok 1 ([Github Repository]((https://github.com/GianJeconiah/ProjectPPL)))
+- Kelompok 1 (https://github.com/GianJeconiah/ProjectPPL)
 - Kelompok ...
 - ...
