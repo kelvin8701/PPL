@@ -6,8 +6,7 @@ Ezekiel Amadeus
 Naresh Kiefer
 Daniel Julio
 
-## List Kelompok Angaktan 2024:
-- ((https://github.com/GianJeconiah/ProjectPPL)))
+## List Kelompok Angkatan 2024:
+- Kelompok 1 ([Github Repository]((https://github.com/GianJeconiah/ProjectPPL)))
 - Kelompok ...
 - ...
-
