@@ -1,8 +1,8 @@
 # PPL 2026
 Silahkan list nama kelompok dan anggota kelompok kalian di bawah sini!
 
-## List Kelompok Angaktan 2024:
-- Kelompok 1 ([Github Repository](https://github.com/kelvin8701/Portfolio))
+## List Kelompok Angkatan 2024 - Kelas Karyawan:
+- Kelompok 1
 - Kelompok 2
 - Kelompok 3 ([Github Repository](https://github.com/rasyiddo/Project-PPL))
 
