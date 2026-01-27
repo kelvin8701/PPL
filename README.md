@@ -1,12 +1,19 @@
 # PPL 2026
 Silahkan list nama kelompok dan anggota kelompok kalian di bawah sini!
-Kelompok Pibble
-Gian Jeconiah Sitompul
-Ezekiel Amadeus
-Naresh Kiefer
-Daniel Julio
-
-## List Kelompok Angkatan 2024:
-- Kelompok 1 (https://github.com/GianJeconiah/ProjectPPL)
-- Kelompok ...
+=======
+## List Kelompok Angaktan 2024:
+- Kelompok 1 ([Github Repository](https://github.com/kelvin8701/Portfolio))
+- Kelompok Kenny: https://github.com/tophrr/PPL
+  - Kenny
+  - Emil
+  - Dhea
+  - Tian
+  - Topher
+- __Kelompok Jayden__ ([Github Repository Kel Jayden](https://github.com/benayajosuaa/PENGEMBANGAN-PIRANTI-LUNAK))
+- Kelompok Gian: (https://github.com/GianJeconiah/ProjectPPL)
+  - Kelompok Pibble
+  - Gian Jeconiah Sitompul
+  - Ezekiel Amadeus
+  - Naresh Kiefer
+  - Daniel Julio
 - ...
