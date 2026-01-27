@@ -6,6 +6,12 @@
 - Kelompok 3 ([Github Repository](https://github.com/rasyiddo/Project-PPL))
 ## List Kelompok Angaktan 2024:
 - Kelompok 1 ([Github Repository](https://github.com/kelvin8701/Portfolio))
+- Kelompok 1: ([Github Repository](https://github.com/CireHane/PPL))
+  - Elizabeth Florence Wijaya
+  - Eric Shane Irwanto
+  - Ben Majesty Adrah Nesta
+  - Brain Hagio Kim
+  - Chelsen Johan
 - Kelompok Kenny: https://github.com/tophrr/PPL
   - Kenny
   - Emil
