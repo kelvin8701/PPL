@@ -1,5 +1,5 @@
 # PPL 2026
-Silahkan list nama kelompok dan anggota kelompok kalian di bawah sini!
+- Silahkan list nama kelompok dan anggota kelompok kalian di bawah sini!
 =======
 ## List Kelompok Angaktan 2024:
 - Kelompok 1 ([Github Repository](https://github.com/kelvin8701/Portfolio))
@@ -10,8 +10,7 @@ Silahkan list nama kelompok dan anggota kelompok kalian di bawah sini!
   - Tian
   - Topher
 - __Kelompok Jayden__ ([Github Repository Kel Jayden](https://github.com/benayajosuaa/PENGEMBANGAN-PIRANTI-LUNAK))
-- Kelompok Gian: (https://github.com/GianJeconiah/ProjectPPL)
-  - Kelompok Pibble
+- Kelompok Pibble: ([Repo](https://github.com/GianJeconiah/ProjectPPL))
   - Gian Jeconiah Sitompul
   - Ezekiel Amadeus
   - Naresh Kiefer
