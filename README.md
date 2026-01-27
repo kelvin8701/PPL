@@ -24,4 +24,8 @@
     3. Hana
     4. Yoel
     5. Farell
-- ...
+- Kelompok 4 ([Github Repository](https://github.com/zufaralam02/Project-PPL))
+  - Rofiif Zufar Allam
+  - Enos Lui Udampo
+  - Maxwell Tandhika Hardian
+  - Rendy Efesus Purba
