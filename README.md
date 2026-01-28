@@ -4,14 +4,20 @@
 - Kelompok 1
 - Kelompok 2
 - Kelompok 3 ([Github Repository](https://github.com/rasyiddo/Project-PPL))
-## List Kelompok Angaktan 2024 - Kelas Reguler:
-- Kelompok 1 ([Repository](https://github.com/toraaxlv/ProjectPPL))
-    1. Daniel G
-    2. Evan
-    3. Jeremy
-    4. Josh
-    5. Tora
+- Kelompok 4 ([Github Repository](https://github.com/zufaralam02/Project-PPL))
+  - Rofiif Zufar Allam
+  - Enos Lui Udampo
+  - Maxwell Tandhika Hardian
+  - Rendy Efesus Purba
+## List Kelompok Angaktan 2024:
+
 - Kelompok 1 ([Github Repository](https://github.com/kelvin8701/Portfolio))
+- Kelompok 1: ([Github Repository](https://github.com/CireHane/PPL))
+  - Elizabeth Florence Wijaya
+  - Eric Shane Irwanto
+  - Ben Majesty Adrah Nesta
+  - Brain Hagio Kim
+  - Chelsen Johan
 - Kelompok Kenny: https://github.com/tophrr/PPL
   - Kenny
   - Emil
@@ -30,4 +36,10 @@
     3. Hana
     4. Yoel
     5. Farell
+- Kelompok 4 ([Repository](https://github.com/toraaxlv/ProjectPPL))
+    1. Daniel G
+    2. Evan
+    3. Jeremy
+    4. Josh
+    5. Tora
 
