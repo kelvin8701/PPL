@@ -4,6 +4,11 @@
 - Kelompok 1
 - Kelompok 2
 - Kelompok 3 ([Github Repository](https://github.com/rasyiddo/Project-PPL))
+- Kelompok 4 ([Github Repository](https://github.com/zufaralam02/Project-PPL))
+  - Rofiif Zufar Allam
+  - Enos Lui Udampo
+  - Maxwell Tandhika Hardian
+  - Rendy Efesus Purba
 ## List Kelompok Angaktan 2024:
 - Kelompok 1 ([Github Repository](https://github.com/kelvin8701/Portfolio))
 - Kelompok Kenny: https://github.com/tophrr/PPL
@@ -24,8 +29,3 @@
     3. Hana
     4. Yoel
     5. Farell
-- Kelompok 4 ([Github Repository](https://github.com/zufaralam02/Project-PPL))
-  - Rofiif Zufar Allam
-  - Enos Lui Udampo
-  - Maxwell Tandhika Hardian
-  - Rendy Efesus Purba
